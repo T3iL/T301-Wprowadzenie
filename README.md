@@ -27,7 +27,7 @@ ZADANIE DODATKOWE - Podłącz zdarzenie (najechanie kursorem myszy) do pól szac
 zmieniające kolor ich tła lub krawędzi (jasnoczerwony).
 ```
 ### --------Links
-https://github.com/infrmtktl 
+https://github.com/T3iL/T301-TechnologieWebowe
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
 
