@@ -43,8 +43,6 @@ https://www.pexels.com/ | https://unsplash.com | https://pixabay.com
 ### ---------Tuts
 https://pasja-informatyki.pl/, https://www.youtube.com/user/MiroslawZelent
 
-Jurkian https://www.youtube.com/user/jurkian
-
 Hello Roman https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g
 
 Overment https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg
