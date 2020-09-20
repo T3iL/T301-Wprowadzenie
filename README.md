@@ -2,7 +2,7 @@
 ## -------INFO
 Wprowadzenie do technologii webowych
 
-1. Tecnologie webowe
+1. Technologie webowe
 ```
 Front end <=> Back end
 
@@ -43,10 +43,12 @@ https://www.pexels.com/ | https://unsplash.com | https://pixabay.com
 ### ---------Tuts
 https://pasja-informatyki.pl/, https://www.youtube.com/user/MiroslawZelent
 
-https://www.youtube.com/user/jurkian
+Jurkian https://www.youtube.com/user/jurkian
 
-https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g
+Hello Roman https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g
 
+Overment https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg
+-------------------------------------
 DevEd - https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q 
 
 Telmo Sempaio - https://www.youtube.com/user/Telmo87
