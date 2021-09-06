@@ -2,15 +2,15 @@
 ## -------INFO
 
 ### PROGRAM:
-1.Wprowadzenie
-2.Język HTML5
-3.Kaskadowe arkusze stylów CSS
-4.Grafika na stronie WWW
-5.Graficzny projekt strony WWW
-6.animacja na stronie internetowej
-7.Dźwięk i Video
-8.Systemy zarządzania treścią CMS
-9.Testowanie i publikowanie strony
+1. Wprowadzenie
+2. Język HTML5
+3. Kaskadowe arkusze stylów CSS
+4. Grafika na stronie WWW
+5. Graficzny projekt strony WWW
+6. animacja na stronie internetowej
+7. Dźwięk i Video
+8. Systemy zarządzania treścią CMS
+9. Testowanie i publikowanie strony
 
 ### Pojęcia podstawowe:
 - Strona Internetowa
