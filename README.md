@@ -1,7 +1,7 @@
 # T301 - Wprowadzenie
 ## -------INFO
 
-### PROGRAM:
+### PROGRAM ZAJĘĆ:
 1. Wprowadzenie
 2. Język HTML5
 3. Kaskadowe arkusze stylów CSS
