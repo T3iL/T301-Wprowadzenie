@@ -1,7 +1,7 @@
 # T301 - Wprowadzenie
 ## -------INFO
 
-###PROGRAM:
+### PROGRAM:
 1.Wprowadzenie
 2.Język HTML5
 3.Kaskadowe arkusze stylów CSS
@@ -12,7 +12,7 @@
 8.Systemy zarządzania treścią CMS
 9.Testowanie i publikowanie strony
 
-###Pojęcia podstawowe:
+### Pojęcia podstawowe:
 - Strona Internetowa
 - Witryna internetowa
 - Portal internetowy
