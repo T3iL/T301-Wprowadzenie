@@ -1,5 +1,26 @@
-# T301 (2021.09.06) -TechnologieWebowe
+# T301 - Wprowadzenie
 ## -------INFO
+
+###PROGRAM:
+1.Wprowadzenie
+2.Język HTML5
+3.Kaskadowe arkusze stylów CSS
+4.Grafika na stronie WWW
+5.Graficzny projekt strony WWW
+6.animacja na stronie internetowej
+7.Dźwięk i Video
+8.Systemy zarządzania treścią CMS
+9.Testowanie i publikowanie strony
+
+###Pojęcia podstawowe:
+- Strona Internetowa
+- Witryna internetowa
+- Portal internetowy
+- Wortal internetowy
+- Serwer internetowy
+- Statyczna strona
+- Dynamiczna strona
+
 Wprowadzenie do technologii webowych
 
 1. Technologie webowe
@@ -21,13 +42,15 @@ https://htmlcheatsheet.com/
 
 ### --------ZAD
 ```
-T30101 - Przygotuj szachownicę o rozmiarach 400px X 400px wyswietlającą figury w oparciu o znaki specjalne.
+T30101 - Przygotuj stronę zawierającą tabelę wypełnioną kolejnymi liczbami 1-30 z trzema kolumnami w języku HTML5
+
+T30102 - Przygotuj szachownicę o rozmiarach 400px X 400px wyswietlającą figury w oparciu o znaki specjalne.
 
 ZADANIE DODATKOWE - Podłącz zdarzenie (najechanie kursorem myszy) do pól szachownicy 
 zmieniające kolor ich tła lub krawędzi (jasnoczerwony).
 ```
 ### --------Links
-https://github.com/T3iL/T301-TechnologieWebowe
+https://github.com/T3iL/T301-Wprowadzenie
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
 
