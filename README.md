@@ -34,16 +34,16 @@ HTML+CSS+JS <=> PHP
 
 4. TAGS
 
-html
-head,body,meta,title
-h1-h6
-p,i,b
-a
-table,tr,td
+* html
+* head,body,meta,title
+* h1-h6
+* p,i,b
+* a
+* table,tr,td
 
 5. ATTRIBUTES
-lang,charset,name,content
-colspan,rowspan
+* lang,charset,name,content
+* colspan,rowspan
 
 ## Front End, Back end, Full stack developer
 
