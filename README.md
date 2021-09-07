@@ -32,6 +32,15 @@ HTML+CSS+JS <=> PHP
 2. HTML ( tags, attributes )
 3. CSS ( selector, declaration )
 
+4. TAGS
+
+<html>
+<head><body>
+<h1>-<h6>
+<p><i><b>
+<a>
+<table><tr><td>
+
 ## Front End, Back end, Full stack developer
 
 https://egzamin-e14.blogspot.com/
