@@ -57,7 +57,7 @@ https://htmlcheatsheet.com/
 ```
 T30101 - Przygotuj stronę zawierającą tabelę wypełnioną kolejnymi liczbami 1-30 z trzema kolumnami w języku HTML5
 
-T30102 - Przygotuj serwic zbudowany z trzech podstron, między którymi można się przenosić za pomocą menu.
+T30102 - Przygotuj serwis zbudowany z trzech podstron, między którymi można się przenosić za pomocą menu.
 
 T30103 - Przygotuj szachownicę o rozmiarach 400px X 400px wyswietlającą figury w oparciu o znaki specjalne.
 
