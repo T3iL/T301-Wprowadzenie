@@ -53,6 +53,8 @@ https://pasja-informatyki.pl/programowanie-webowe/
 
 https://htmlcheatsheet.com/ 
 
+https://pl.lipsum.com/
+
 ### --------ZAD
 ```
 T30101 - Przygotuj stronę zawierającą tabelę wypełnioną kolejnymi liczbami 1-30 z trzema kolumnami w języku HTML5
